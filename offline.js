@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1610114004,
+	"version": 1610124904,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,9 @@
 		"play_b-sheet0.png",
 		"exit_b-sheet0.png",
 		"bg_of_menu.png",
+		"sprite-sheet0.png",
+		"sprite-sheet1.png",
+		"sprite-sheet2.png",
 		"dauw seafoam & dust.ogg",
 		"icon-16.png",
 		"icon-32.png",
