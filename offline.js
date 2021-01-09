@@ -1,0 +1,30 @@
+﻿{
+	"version": 1610184844,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"logo_bg.png",
+		"logostart-sheet0.png",
+		"15_logo-sheet0.png",
+		"play_b-sheet0.png",
+		"exit_b-sheet0.png",
+		"bg_of_menu.png",
+		"about_b-sheet0.png",
+		"about_b-sheet1.png",
+		"about_b-sheet2.png",
+		"circle-sheet0.png",
+		"audio_b-sheet0.png",
+		"car-sheet0.png",
+		"car-sheet1.png",
+		"car-sheet2.png",
+		"dauw seafoam & dust.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
